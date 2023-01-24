@@ -6,9 +6,9 @@ Permainan kartu 24 adalah permainan kartu aritmatika dengan tujuan mencari cara 
 (Paragraf di atas dikutip dari sini: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2015-2016/Makalah-2016/MakalahStima-2016-038.pdf).
 
 
-## Bahasa dan Algoritma yang digunakan
+## Deskripsi Program
 
-Projek ini dibuat dengan menggunakan bahasa C++ dan algoritma Brute Force.
+Program ini berfungsi untuk memberikan solusi dari permainan kartu 24. Program ini akan memberikan total solusi yang ada (bila ada) dan menampilkan seluruh solusinya. Program juga dapat menyimpan solusi dalam bentuk file txt bila user menginginkannya. Untuk input kartunya, user dapat menginputnya secara manual atau menggunakan fitur auto-generator pada program ini.
 
 
 ## Struktur Program
@@ -37,7 +37,7 @@ Projek ini dibuat dengan menggunakan bahasa C++ dan algoritma Brute Force.
 ```
 
 
-## Menjalankan Program
+## Menggunakan Program
 
 Untuk menjalankan program, buka root directory, lalu jalankan run.bat:
 ```
@@ -45,10 +45,12 @@ Untuk menjalankan program, buka root directory, lalu jalankan run.bat:
 ```
 Jika gagal, hapus file Tucil.exe di folder bin. Lalu, ulangi langkah di atas.
 
+Untuk penggunaan program di dalam akan terdapat instruksi yang jelas di program sehingga user tinggal mengikutinya saja.
+
 
 ## Tampilan User
 
-- Preview
+- Preview 24 Game Solver
 <p align = "center">
     <img src="https://i.postimg.cc/pTH9cRzg/24game.jpg">
 </p>
