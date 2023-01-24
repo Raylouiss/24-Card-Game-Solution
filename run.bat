@@ -1,0 +1,1 @@
+g++ .\src\Tucil.cpp -o bin\Tucil && .\bin\Tucil.exe
